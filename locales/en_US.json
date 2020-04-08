@@ -9,5 +9,9 @@
         "heading": "Hello World",
         "title": "Site title",
         "announcement": "Announcement"
+    },
+    "error": {
+        "unspecific": "Algo não funciona como o esperado.",
+        "404": "Esta página não foi encontrada."
     }
 }
