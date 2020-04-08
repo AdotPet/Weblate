@@ -1,7 +1,17 @@
 {
     "general": {
         "sitename": "mebr",
-        "site_region": "",
-        "site_owner": ""
+        "site_region": "Brasil",
+        "site_owner": "Charles Porto"
+    },
+    "error": {
+        "404": "No fue encontrado esta página.",
+        "unspecific": "Algo no pareces bien."
+    },
+    "home": {
+        "announcement": "Anuncio",
+        "heading": "Hola Mundo",
+        "title": "Titulo del sitio",
+        "subtitle": "Subtitle del websitio"
     }
 }
