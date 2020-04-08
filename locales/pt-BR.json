@@ -6,8 +6,8 @@
     },
     "home": {
         "announcement": "Anúncio",
-        "heading": "",
-        "title": "",
-        "subtitle": ""
+        "heading": "Olá mundo",
+        "title": "Site titulo",
+        "subtitle": "Site sub-titulo"
     }
 }
