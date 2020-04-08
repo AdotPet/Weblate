@@ -9,5 +9,9 @@
         "heading": "Olá mundo",
         "title": "Site titulo",
         "subtitle": "Site sub-titulo"
-    }
+    },
+    "error": {
+    "unspecific": "Something went wrong.",
+    "404": "The page was not found."
+  }
 }
