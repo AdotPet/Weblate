@@ -5,6 +5,9 @@
         "site_owner": "Charles Porto"
     },
     "Home": {
-        "announcement": "Anúncio"
+        "announcement": "Anúncio",
+        "heading": "",
+        "title": "",
+        "subtitle": "",
     }
 }
