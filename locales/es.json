@@ -1,5 +1,7 @@
 {
     "general": {
-        "sitename": "mebr"
+        "sitename": "mebr",
+        "site_region": "",
+        "site_owner": ""
     }
 }
