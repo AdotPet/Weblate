@@ -1,5 +1,10 @@
 {
     "general": {
-        "sitename": "mebr"
+        "sitename": "mebr",
+        "site_region": "Brasil".
+        "site_owner": "Charles Porto"
+    },
+    "Home": {
+        "announcement": "Anúncio"
     }
 }
